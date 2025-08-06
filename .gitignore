@@ -1,10 +1,8 @@
-# .gitignore
-
 # Node dependencies
 node_modules/
 
 # Ignore environment files
-/backend/.env
+**/*.env
 
 # Logs
 *.log
